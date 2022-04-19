@@ -43,11 +43,8 @@ At the end of this series of articles we will build a smart contract that draws 
 
 - First, you need to have Node.js, npm and Hardhat installed, then clone the project via HTTPS through this command:</br>
     `git clone https://github.com/dukefullstack/beginners-guide-to-solidity`
-</br>
 - After cloning, enter the cloned repository directory:</br>
     `cd beginners-guide-to-solidity`
-</br>
-
 - Once being inside the directory, download and install the dependencies using:</br>
     `npm i`
 
