@@ -15,6 +15,7 @@ Repository used during the development of the series of articles on Hashnode abo
   - [:man_technologist: Technologies & Tools](#man_technologist-technologies--tools)
   - [:iphone: Final Application](#iphone-final-application)
   - [:heavy_check_mark: Installation](#heavy_check_mark-installation)
+  - [:heavy_check_mark: Compilation & Test](#heavy_check_mark-compilation--test)
   - [:pencil: Author](#pencil-author)
 
 ## :pushpin: Motivation
@@ -49,6 +50,14 @@ At the end of this series of articles we will build a smart contract that draws 
 
 - Once being inside the directory, download and install the dependencies using:</br>
     `npm i`
+
+## :heavy_check_mark: Compilation & Test
+
+- To compile you must run at terminal:</br>
+    `npx hardhat compile`
+
+- To run our tests you must access your terminal and run:</br>
+    `npx hardhat test`
 
 ## :pencil: Author
 
