@@ -5,13 +5,13 @@ Repository used during the development of the series of articles on DukesCode ab
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dukefullstack/)
 [![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://www.youtube.com/@DukesCode)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/dukefullstack)
-[![DukesCode](https://img.shields.io/static/v1?label=Duke'sCode&message=%20&color=blue&logo=googlechrome&style=flat-square&logoColor=white)](https://dukescode.com/)
+[![DukesCode](https://img.shields.io/static/v1?label=Duke'sCode&message=%20&color=blue&logo=googlechrome&style=flat-square&logoColor=white)](https://dukescode.com?utm_source=github&utm_medium=page&ref=github)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/dukefullstack/)
 
 ## ![image](https://github.com/dukefullstack/store-app-castore/blob/assets/assets/octohub.png?raw=true) Menu Contents
 
 - [Beginners Guide to Solidity](#beginners-guide-to-solidity)
-  - [:image Menu Contents](#-menu-contents)
+  - [:bulb: Menu Contents](#-menu-contents)
   - [:pushpin: Motivation](#pushpin-motivation)
   - [:man_technologist: Technologies & Tools](#man_technologist-technologies--tools)
   - [:iphone: Final Application](#iphone-final-application)
