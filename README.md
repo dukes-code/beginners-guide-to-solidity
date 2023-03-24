@@ -1,16 +1,17 @@
 # Beginners Guide to Solidity
+
 Repository used during the development of the series of articles on Hashnode about Solidity for beginners.
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dukefullstack/)
-[![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UCW3sXP1YBfvDB3_B_7-mldw)
+[![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://www.youtube.com/@DukesCode)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/dukefullstack)
-[![Hashnode](https://img.shields.io/static/v1?label=Hashnode&message=%20&color=blue&logo=Hashnode&style=flat-square&logoColor=white)](https://dukefs.hashnode.dev/)
+[![DukesCode](https://img.shields.io/static/v1?label=Duke'sCode&message=%20&color=blue&logo=googlechrome&style=flat-square&logoColor=white)](https://dukescode.com/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/dukefullstack/)
 
 ## ![image](https://github.com/dukefullstack/store-app-castore/blob/assets/assets/octohub.png?raw=true) Menu Contents
 
 - [Beginners Guide to Solidity](#beginners-guide-to-solidity)
-  - [!image Menu Contents](#-menu-contents)
+  - [:image Menu Contents](#-menu-contents)
   - [:pushpin: Motivation](#pushpin-motivation)
   - [:man_technologist: Technologies & Tools](#man_technologist-technologies--tools)
   - [:iphone: Final Application](#iphone-final-application)
@@ -43,29 +44,28 @@ At the end of this series of articles we will build a smart contract that draws 
 ## :heavy_check_mark: Installation
 
 - First, you need to have Node.js, npm and Hardhat installed, then clone the project via HTTPS through this command:</br>
-    `git clone https://github.com/dukefullstack/beginners-guide-to-solidity`
+  `git clone https://github.com/dukefullstack/beginners-guide-to-solidity`
 
 - After cloning, enter the cloned repository directory:</br>
-    `cd beginners-guide-to-solidity`
+  `cd beginners-guide-to-solidity`
 
 - Once being inside the directory, download and install the dependencies using:</br>
-    `npm i`
+  `npm i`
 
 ## :heavy_check_mark: Compilation & Test
 
 - To compile you must run at terminal:</br>
-    `npx hardhat compile`
+  `npx hardhat compile`
 
 - To run our tests you must access your terminal and run:</br>
-    `npx hardhat test`
+  `npx hardhat test`
 
 ## :pencil: Author
 
 - <a href="https://www.linkedin.com/in/dukefullstack/" target="_blank">LinkedIn</a>
-- <a href="https://www.youtube.com/channel/UCW3sXP1YBfvDB3_B_7-mldw" target="_blank">Youtube</a>
+- <a href="https://www.youtube.com/@DukesCode" target="_blank">Youtube</a>
 - <a href="https://twitter.com/dukefullstack" target="_blank">Twitter</a>
-- <a href="https://dukefs.hashnode.dev/" target="_blank">Hashnode</a>
+- <a href="https://dukescode.com?utm_source=github&utm_medium=page&ref=github" target="_blank">Duke's Code</a>
 - <a href="https://www.instagram.com/dukefullstack/" target="_blank">Instagram</a>
-
 
 Made with :heart: by <a href="https://www.linkedin.com/in/dukefullstack/">**Thiago Santos Joaquim**</a>. MIT License
