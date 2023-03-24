@@ -1,6 +1,6 @@
 # Beginners Guide to Solidity
 
-Repository used during the development of the series of articles on Hashnode about Solidity for beginners.
+Repository used during the development of the series of articles on DukesCode about Solidity for beginners.
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dukefullstack/)
 [![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://www.youtube.com/@DukesCode)
@@ -21,7 +21,7 @@ Repository used during the development of the series of articles on Hashnode abo
 
 ## :pushpin: Motivation
 
-This is the first article in a series entitled [“A Complete Beginner's Guide to Solidity”](https://dukefs.hashnode.dev/series/guia-solidity), where I will present a detailed understanding of the ecosystem surrounding the Smart Contract and the Solidity Language with a focus on the Ethereum platform. These fundamentals will give you basic knowledge on the subject to help you get started on your journey.
+This is the first article in a series entitled [“A Complete Beginner's Guide to Solidity”](https://dukescode.com/a-complete-beginners-guide-to-solidity-part-i), where I will present a detailed understanding of the ecosystem surrounding the Smart Contract and the Solidity Language with a focus on the Ethereum platform. These fundamentals will give you basic knowledge on the subject to help you get started on your journey.
 
 With this series, my goal is to bring complete and comprehensive content on the subject, which I will deal with theoretically and practically.
 
